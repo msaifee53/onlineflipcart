@@ -1,0 +1,201 @@
+*{
+	box-sizing:border-box;
+}
+
+
+.dropdown{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown:hover .dropdowncontent{
+display:block;
+}
+
+.dropdowncontent a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown1{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent1{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown1:hover .dropdowncontent1{
+display:block;
+}
+
+.dropdowncontent1 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown2{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent2{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown2:hover .dropdowncontent2{
+display:block;
+}
+
+.dropdowncontent2 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown3{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent3{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown3:hover .dropdowncontent3{
+display:block;
+}
+
+.dropdowncontent3 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown4{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent4{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown4:hover .dropdowncontent4{
+display:block;
+}
+
+.dropdowncontent4 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown5{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent5{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown5:hover .dropdowncontent5{
+display:block;
+}
+
+.dropdowncontent5 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+.dropdown6{
+position:relative;
+display:inline-block;
+}
+.dropdowncontent6{
+display:none;
+position:absolute;
+background-color:gray;
+padding: 10px;
+/*left:170px;*/
+color:white;
+z-index:1;
+}
+.dropdown6:hover .dropdowncontent6{
+display:block;
+}
+
+.dropdowncontent6 a {
+display: block;
+padding: 10px 20px;
+text-decoration:none;
+color:white;
+}
+nav{
+background-color:blue;
+padding-top:10px;
+text-align:center;
+height:7vh;
+}
+
+nav input{
+width:30vw;
+height:4.5vh;
+padding:0 16px;
+outline:none;
+}
+nav div{
+	display:inline-block;
+	margin: 0 15px;
+	color:#fff;
+}
+.searchicon{
+	position:absolute;
+	left:527px;
+	color:blue;
+	top:3.5%;
+}
+.button button{
+	background-color:white;
+	color:blue;
+	width:8vw;
+	height:4.5vh;
+	border:none;
+	}
+.button button:active{
+	background-color:gray;
+	color:white;
+}
